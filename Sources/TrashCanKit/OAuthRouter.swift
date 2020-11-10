@@ -1,4 +1,5 @@
 import RequestKit
+import Foundation
 
 public enum OAuthRouter: Router {
     case authorize(OAuthConfiguration)

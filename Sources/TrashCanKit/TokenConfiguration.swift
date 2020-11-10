@@ -1,4 +1,5 @@
 import RequestKit
+import Foundation
 
 public struct TokenConfiguration: Configuration {
     public var apiEndpoint: String
